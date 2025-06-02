@@ -12,6 +12,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.denzcoskun.imageslider.ImageSlider;
+import com.denzcoskun.imageslider.constants.AnimationTypes;
 import com.denzcoskun.imageslider.constants.ScaleTypes;
 import com.denzcoskun.imageslider.interfaces.ItemChangeListener;
 import com.denzcoskun.imageslider.interfaces.ItemClickListener;
@@ -81,6 +82,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+        imageSlider.setSlideAnimation(AnimationTypes.CUBE_OUT);
 
     }
 }
