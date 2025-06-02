@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "67866485508",
+    "firebase_url": "https://fir-data-recyclerview-app-default-rtdb.firebaseio.com",
+    "project_id": "fir-data-recyclerview-app",
+    "storage_bucket": "fir-data-recyclerview-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67866485508:android:a109c5a7ecce5a96ed6651",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatainrecyclerviewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOtSvtCux7zXo35on7D2BwF7AlFKBqLLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67866485508:android:fba1891067d4a108ed6651",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimagesliderappjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOtSvtCux7zXo35on7D2BwF7AlFKBqLLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
